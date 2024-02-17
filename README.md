@@ -43,14 +43,17 @@ necessary.
 
 # Choices made for development :
 
-# Widget Composition:
+Widget Composition:
 We chose a composition of widgets that are commonly used in Flutter development for building the UI. This ensures familiarity and ease of understanding for other developers.
 
-# Error Handling Approach:
+Error Handling Approach:
 We opted for a simple error handling approach using try-catch blocks and SnackBar to display error messages. This provides a user-friendly way to communicate errors without disrupting the user experience.
 
-Automatic Refresh on Connection: To enhance user experience, we decided to automatically refresh the data when the internet connection is restored. This ensures that users see up-to-date content without manual intervention.
+Automatic Refresh on Connection:
+To enhance user experience, we decided to automatically refresh the data when the internet connection is restored. This ensures that users see up-to-date content without manual intervention.
 
-Connectivity Plugin: We chose the connectivity plugin for monitoring internet connection status due to its simplicity and reliability. It provides an easy way to detect changes in the device's connectivity state.
+Connectivity Plugin: 
+We chose the connectivity plugin for monitoring internet connection status due to its simplicity and reliability. It provides an easy way to detect changes in the device's connectivity state.
 
-Code Readability: Throughout the code, we aimed to maintain readability by using descriptive variable names, organizing code into logical functions, and following Flutter's style guide for formatting and conventions.
+Code Readability: 
+Throughout the code, we aimed to maintain readability by using descriptive variable names, organizing code into logical functions, and following Flutter's style guide for formatting and conventions.
